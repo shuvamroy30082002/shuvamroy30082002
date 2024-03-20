@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Pen Testing**
 
-- 💬 Ask me about **Python, Networking, Pen Testing, Bug Bounty.**
+- 💬 Ask me about **Python, Networking, Pen Testing, Bug Bounty, ReactJs.**
 
 - 📫 How to reach me **royshuvam30082002@gmail.com**
 
